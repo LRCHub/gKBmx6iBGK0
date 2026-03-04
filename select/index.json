@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Strawberries & Cigarettes",
+  "base_artist": "Troye Sivan",
+  "createdAt": "2026-03-04T08:12:29.218368Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strawberries",
+      "artist": "Asobi Seksu",
+      "has_synced": true,
+      "path": "select/01_Strawberries_Asobi_Seksu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fresh Strawberries",
+      "artist": "Franz Ferdinand",
+      "has_synced": false,
+      "path": "select/02_Fresh_Strawberries_Franz_Ferdinand.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wild Strawberries",
+      "artist": "PNAU",
+      "has_synced": true,
+      "path": "select/03_Wild_Strawberries_PNAU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Strawberries 1 + 2",
+      "artist": "Thee Oh Sees",
+      "has_synced": false,
+      "path": "select/04_Strawberries_1_+_2_Thee_Oh_Sees.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Strawberries One & Two",
+      "artist": "Thee Oh Sees",
+      "has_synced": false,
+      "path": "select/05_Strawberries_One_&_Two_Thee_Oh_Sees.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Strawberries Mean Love",
+      "artist": "Strawberry Alarm Clock",
+      "has_synced": true,
+      "path": "select/06_Strawberries_Mean_Love_Strawberry_Alarm_Clock.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strawberries Mean Love",
+      "artist": "Strawberry Alarm Clock",
+      "has_synced": true,
+      "path": "select/07_Strawberries_Mean_Love_Strawberry_Alarm_Clock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Strawberries Mean Love",
+      "artist": "Strawberry Alarm Clock",
+      "has_synced": true,
+      "path": "select/08_Strawberries_Mean_Love_Strawberry_Alarm_Clock.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Strawberries",
+      "artist": "WHY?",
+      "has_synced": true,
+      "path": "select/09_Strawberries_WHY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strawberries & Cigarettes",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/10_Strawberries_&_Cigarettes_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Isle of Strawberries",
+      "artist": "Edwin Raphael",
+      "has_synced": true,
+      "path": "select/11_Isle_of_Strawberries_Edwin_Raphael.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Strawberries & Popcorn",
+      "artist": "Eels",
+      "has_synced": true,
+      "path": "select/12_Strawberries_&_Popcorn_Eels.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Strawberries & Cigarettes",
+      "artist": "Troye Sivan",
+      "has_synced": true,
+      "path": "select/13_Strawberries_&_Cigarettes_Troye_Sivan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Strawberries (Ulrich Schnauss Remix)",
+      "artist": "Asobi Seksu",
+      "has_synced": true,
+      "path": "select/14_Strawberries_(Ulrich_Schnauss_Remix)_Asobi_Seksu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Raspberries, Strawberries",
+      "artist": "The Kingston Trio",
+      "has_synced": true,
+      "path": "select/15_Raspberries,_Strawberries_The_Kingston_Trio.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Raspberries, Strawberries",
+      "artist": "The Kingston Trio",
+      "has_synced": false,
+      "path": "select/16_Raspberries,_Strawberries_The_Kingston_Trio.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Strawberries & Cigarettes",
+      "artist": "Troye Sivan",
+      "has_synced": false,
+      "path": "select/pl_01_Strawberries_&_Cigarettes_Troye_Sivan.txt"
+    }
+  ]
+}
